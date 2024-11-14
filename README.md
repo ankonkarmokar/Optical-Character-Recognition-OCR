@@ -4,7 +4,7 @@ This Optical Character Recognition (OCR) project extracts and converts text from
 
 ## Project
 
-The goal of this project is to provide a simple, effective way to extract text from scanned documents, photos, or PDFs. The tool is primarily built with Python and leverages the Tesseract OCR engine, which is widely used for text recognition. The project includes functionality for processing images, and extracting text for further processing or analysis.
+The goal of this project is to provide a simple, effective way to extract text from scanned documents, photos. The tool is primarily built with Python and leverages the Tesseract OCR engine, which is widely used for text recognition. The project includes functionality for processing images, and extracting text for further processing or analysis.
 
 ## Features
 
